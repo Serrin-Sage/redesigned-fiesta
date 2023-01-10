@@ -1,3 +1,7 @@
+Vendor.destroy_all
+Sweet.destroy_all
+VendorSweet.destroy_all
+
 puts '🍪 Seeding vendors...'
 
 Vendor.create(
